@@ -1,0 +1,14 @@
+#first add to local cache
+git add .
+
+#second commit to repository
+git commit -m "description"
+
+#three push to remote service
+git push 
+
+#show status
+git status
+
+#show config
+git config --list
